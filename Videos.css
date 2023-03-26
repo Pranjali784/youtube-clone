@@ -1,0 +1,38 @@
+.videos{
+    flex: .8;
+}
+span.title{
+    font-size: 20px;
+    padding: 0px 20px;
+    line-height: 700;
+}
+span.channelname {
+    font-size: 13px;
+}
+.time_options.d-flex {
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+}
+span.views {
+    font-size: 12px;
+}
+span.timestamp {
+    font-size: 13px;
+}
+span.videos_duration{
+    bottom: 100%;
+    right: 0%;
+    top: 60%;
+    background-color: #000;
+    color: #fff;
+}
+img.channel_image.pointer {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+span.videos_duration.absolute {
+    font-size: 10px;
+}

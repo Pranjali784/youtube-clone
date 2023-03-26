@@ -1,0 +1,22 @@
+.filter {
+    flex: .8;
+    max-height: 50px;
+    margin: 0px 10px;
+    border-left: none;
+    border-right: none;
+    border: 1px  #9e9e9e4d;
+}
+span.filter-items{
+    font-size: 10px;
+    padding: 10px 10px;
+    border-radius: 30px;
+    border: 1px solid #9e9e9e5c;
+    margin: 0px 5px;
+}
+span.filter-items.active{
+    background-color: #000;
+    border: none;
+    margin: 0px 10px;
+    color: #fff;
+
+}

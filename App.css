@@ -1,0 +1,168 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+body{
+    width: 65%;
+    background-color: #fff;
+    font-family: sans-serif;
+}
+li{
+    overflow: hidden;
+    font-size: 18px;
+}
+.white{
+    color: #fff;
+}
+.black{
+    color:#000;
+}
+.container{
+    width: 85%;
+    margin: 0px auto;
+}
+.d-flex{
+    display: flex;
+}
+.align-items-center{
+    align-items: center;
+}
+.justify-content-space-between{
+    justify-content: space-between;
+}
+.justify-content-center{
+    justify-content: center;
+}
+h1,h2,h3,h4,h5,h6,span{
+    font-size: 18px;
+  }
+  a{
+    text-decoration: none;
+    color: #000;
+  }
+  .row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  .col-2{
+    width: 50%;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+  }
+  .col-3{
+    width: 33.33%;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    justify-content: center;
+  }
+  .col-4{
+    width: 25%;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 5px 0px;
+    justify-content: center;
+  }
+  .pointer{
+    cursor: pointer;
+  }
+  .px-15{
+    padding: 15px;
+  }
+  .pxy-10{
+    padding: 0px 10px;
+  }
+  .mxy-10{
+    margin: 0px 10px;
+  }
+  .relative{
+    position: relative;
+  }
+  .absolute{
+    position: absolute;
+  }
+  .fixed{
+    position: fixed;
+  }
+  .z-index{
+    z-index: 12;
+  }
+  .d-block{
+    display: block;
+  }
+  .pointer{
+    cursor: pointer;
+  }
+  .pl-5{
+    padding-left: 5px;
+  }
+  .f-400{
+    font-weight: 400;
+  }
+  .p-b{
+    padding-bottom: 8px;
+  }
+  .m-10{
+    margin: 10px;
+  }
+  .pr-10{
+    padding-right: 10px;
+  }
+  .m-8{
+    margin: 8px;
+  }
+  .pbt-30{
+    padding: 15px 50px;
+  }
+  .px-20{
+    padding: 0px 20px;
+  }
+  .f-direction-column{
+    flex-direction: column;
+  }
+  .mx-5{
+    margin: 0px 5px;
+  }
+  .black{
+    color: #000;
+  }
+  .mtb-20{
+    margin: 20px 0px;
+  }
+  .bold-800{
+    font-weight: 800;
+  }
+  .bold-600{
+    font-weight: 600;
+  }
+  .white{
+    color: #fff;
+  }
+  .lh-1{
+    line-height: 1;
+  }
+  .ls-l {
+    letter-spacing: -.05em!important;
+  }
+  .container{
+    width: 85%;
+    margin: 0px auto;
+    overflow: hidden;
+  }
+  .mxy-30{
+    margin-right: 30px;
+  }
+  .my-30{
+    padding: 0px 30px;
+  }
+  .mxy-15{
+    margin: 0px 15px;
+  }
